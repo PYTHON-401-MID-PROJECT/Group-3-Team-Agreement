@@ -6,7 +6,7 @@ JoEasyGov
 
 ## Authers
 
-- Ibrahim Aredah
+- Ibraheem Areeda
 - Malik Abdelal
 - Asem Attallah
 - Sakher Shteyat
