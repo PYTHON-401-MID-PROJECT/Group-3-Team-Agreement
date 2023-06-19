@@ -1,139 +1,165 @@
 # Group 3 : Team Agreement
+﻿# Project-Midterm-Prep-1
 
-# Names of group members
+## Project Title
 
-1-ibraheem Areeda
+JoEasyGov-GroupThree
 
-2-Malek Abd Alal
+## Authers
 
-3-Zekra Quraan
+- Ibrahim Aredah
+- Malik Abdelal
+- Asem Attallah
+- Sakher Shteyat
+- Almothana Almasri
+- Zekra Qura'an
+- Walaa Alrefai
 
-4-Asem Atallah
+## Deliverable
 
-5-sakher shteyat
+1- What are the key strengths of each person on the team?
 
-6-Walaa Alrefaae
+  |  Name       | Strength |
+  |--------------|-----------|
+  | Ibrahim Aredah |  AI and Deep Learning |
+  | Malik Abdelal     |  AI and Deep Learning |
+  | Asem Attallah |Design and Presentation|
+  |Sakher Shteyat|Datastructuer|
+  |Almothana Almasri|OOP clean code|
+  |Thekra Qura'an|Design and Presentation|
+  |Walaa Alrefai|Data Analysis|
 
-7-Al-mothana Almasri
+2- How can you best utilize these strengths in the execution of your project?
 
-# Project Title: JoEasyGov (First Idea)
+We are looking for an idea that contain all our strenght points or at least as much as possible to take benefit from all team members
 
-- jordan first government transaction AI bot
+3- In which professional competencies do you each want to develop greater strength?
 
-## Project Overview
+|  Name       |Strength |
+  |--------------|-----------|
+  | Ibrahim Aredah |  Datastructuer |
+  | Malik Abdelal     |  OOP clean code |
+  | Asem Attallah |AI and Deep Learning|
+  |Sakher Shteyat|AI and Deep Learning|
+  |Almothana Almasri|AI and Deep Learning|
+  |Thekra Qura'an|AI and Deep Learning|
+  |Walaa Alrefai|Design and Presentation|
 
-JoEasyGov is an innovative AI-powered chatbot designed to revolutionize the way people interact with government transactions in Jordan. As the first government transaction helper AI bot in the country, JoEasyGov aims to streamline and simplify the often complex and time-consuming process of dealing with governmental procedures.
+4- Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
-The primary purpose of JoEasyGov is to provide a user-friendly and efficient platform that assists individuals in navigating through various government transactions. Whether it's obtaining official documents, submitting applications, or seeking information regarding specific services, JoEasyGov is here to assist.
+  for each individual working day we will start with meeting to divide the roles, keep in touch by using online communication and helping each other with any issues that we might face
 
-Key Features:
+## Conflict Plan
 
-JoEasyGov aims to enhance citizen experience, reduce bureaucracy, and promote efficiency in government transactions. By leveraging AI technology and user-centric design, the chatbot strives to simplify processes, save time, and provide an accessible and personalized platform for individuals seeking government services in Jordan.
+1- What will be your group’s process to resolve conflict, when it arises?
 
-## Problem Domain
+each one of us will give a good full description about his code in every commit will pushed to the repo and if it necessary the members that faced the conflict will do one to one meeting.
 
-JoEasyGov aims to address the challenges and complexities individuals face when dealing with government transactions in Jordan.
+2- What will your team do if one person is taking over the project and not letting the other members contribute?
 
-## The software seeks to solve the following problems
+if we face this problem we will do a meeting with this person to convince him/her to change his/her attitude if it seems that problem will not be solved we will notice the lead instructure
 
-1. Complex Procedures: Government transactions often involve multiple steps, paperwork, and specific requirements. Navigating through these processes can be confusing and time-consuming for individuals, leading to frustration and delays.
+3- How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
 
-2. Lack of Information: Many people struggle to find accurate and up-to-date information about government services, eligibility criteria, and application procedures. The lack of reliable sources often results in misunderstandings and errors during the transaction process.
+we will take this in mind help each other is one of our goals in this project to improve our communication skills we will stand for each other helping explaining and to whatever it takes to grow together
 
-3. Limited Accessibility: Traditional government offices typically operate during fixed working hours, which can be inconvenient for individuals with busy schedules or those living in remote areas. Accessing services often requires physical visits, causing additional time and effort.
+4- How will you raise concerns to members who are not adequately contributing?
 
-## JoEasyGov aims to simplify the user's life in the following ways
+We will deal with them in professional way to deliver Our concerns and let the team leader have an idea about the whole situation and The team will schedule a meeting to discuss the issue and encourage the person to contribute more actively and proactively. If the issue persists, the team can assign specific tasks and deadlines to ensure everyone is contributing equally.
 
-1. Streamlined Processes: By providing step-by-step guidance and real-time updates, JoEasyGov simplifies government transactions. Users can easily understand the required documents, procedures, and timelines, reducing confusion and saving time.
+5- How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 
-2. Accessible Information: JoEasyGov serves as a reliable source of information, offering clear explanations of government services. It ensures users have access to accurate and up-to-date details, empowering them with knowledge to make informed decisions.
+If it seems it will affecte the project procces or the time line
 
-3. Convenience and Time Savings: The 24/7 availability of JoEasyGov allows users to engage with the chatbot at their convenience. They can access services and submit documents electronically, eliminating the need for physical visits and reducing bureaucratic hurdles.
+## Communication Plan
 
-4. User-Friendly Interface: JoEasyGov's chat-based interface enables users to interact naturally and comfortably. The conversational AI technology makes it easy to ask questions, seek guidance, and receive personalized assistance throughout the transaction process.
+1- What hours will you be available to communicate?
 
-## The reasons for users to choose and utilize JoEasyGov include
+every work day in the morning we will set a meeting and if any one has a problem can share it with the rest
 
-1. Efficiency: JoEasyGov streamlines government transactions, making the process quicker and more efficient. Users can complete tasks with fewer errors and reduced delays, saving time and effort.
+2- What platforms will you use to communicate (ie. Slack, phone …)?
 
-2. Accessibility: JoEasyGov offers round-the-clock availability, enabling users to access services at their convenience. It eliminates the constraints of fixed working hours and physical visits, providing a more accessible platform for all.
+- Discored for meeting
 
-3. Information and Guidance: JoEasyGov provides accurate and up-to-date information about government services, eligibility criteria, and application procedures. Users can rely on the chatbot to guide them through the process and ensure they meet the requirements.
+- Slack for quick discussion
 
-4. User-Focused Experience: JoEasyGov prioritizes user experience by offering a user-friendly interface and personalized assistance. The chatbot understands users' needs and provides tailored guidance, making the overall experience more satisfying and user-centric.
+- phone WhatsApp
 
-By addressing the challenges of complex procedures, limited accessibility, and lack of information, JoEasyGov aims to simplify government transactions, enhance citizen experience, and promote efficiency in Jordan's public services.
+3- How often will you take breaks?
 
-   It encompasses the knowledge, concepts, rules, and constraints associated with the problem being solved. Understanding the problem domain is crucial for creating effective software solutions that meet the needs of users and address the challenges of the problem at hand.
+every one hour we have 10 min break and for the work day (8 hours) after the fourth hour we have a 1 hour break
 
-## Technologies Used
+4- What is your plan if you start to fall behind?
 
-- chat GPT API
-- langcgain library
-- pypdf2 library
-- streamlit or gradio library for front end
-- or whatsapp platform
+we will set a meeting to decide to update our plan
 
-## Features
+- decide the priority features
+- increase the working time to reach our goal
 
-1. User-Friendly Interface: JoEasyGov offers a seamless and intuitive chat-based interface that allows users to interact naturally and comfortably. The conversational AI technology enables users to ask questions, seek guidance, and receive step-by-step instructions.
+5- How will you communicate after hours and on the weekend?
 
-2. Transaction Guidance: JoEasyGov provides comprehensive guidance for different government transactions, ensuring users are aware of the required documents, procedures, and timelines. It offers real-time updates on the progress of applications and notifications about any additional requirements.
+we can keep in touch with each other on WhatsApp for quick discussions
 
-3. Information Access: JoEasyGov acts as a reliable source of information, offering detailed explanations of various government services, eligibility criteria, and relevant policies. It provides accurate and up-to-date information to empower users with knowledge regarding their transactions.
+6- What is your strategy for ensuring everyone’s voice is heard?
 
-4. Document Submission: With JoEasyGov, users can conveniently submit documents and forms electronically. The chatbot guides users on the necessary formats, sizes, and other specifications, reducing the need for physical visits and paperwork.
+every one in the team will have a time to express himself and each decision will proceed after everyone approved
 
-5. 24/7 Availability: JoEasyGov is accessible round the clock, enabling users to engage with the chatbot at their convenience. Whether it's during office hours or late at night, individuals can access the platform anytime, eliminating the need to adhere to fixed working hours.
+7- How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
-## How to use the app
+if one of us feel uncomfortable from the work or from party member he/she can talk with team leader or the other members he/she will preferred
 
-To use the JoEasyGov app:
+## Work Plan
 
-1. Access the app through a web or mobile interface.
-2. Interact with JoEasyGov using manual typing or voice commands(stretch goal).
-3. Ask questions or specify the government transaction you need assistance with.
-4. Follow the step-by-step guidance provided by JoEasyGov.
-5. Submit required documents electronically, if necessary.
-6. Receive real-time updates on the progress of your transaction.
-7. Ask for detailed information about government services and policies.
-8. Access the app 24/7 for convenience.
+1- How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 
-## conclusion
+we will assign the tasks depends on the strengths points and the personal intrest of each memeber and putting in mind the timeline and that no one will work more than the others (make it efficient fair work)
 
-JoEasyGov aims to simplify government transactions, provide accurate information, and offer a user-friendly experience in Jordan.
-***********************************************************
+2- What project management tool will be used?
 
-# Project Title : Rubik Cube Solver (Second Idea )
+- Github
+- Trello
+- Miro
 
-## Project Overview1
+## Presentation Deck
 
-This project allows users to play with a 3D Rubik's Cube with random input and focuses on AI by teaching our bot to detect a Rubik's Cube through input methods and provide a solution for the cube.
+the presentation will be depend on this [project Presentation](https://docs.google.com/presentation/d/1HL0wbqqVVvpWmbfOLmvcxDMuSCVtkOEpdG29rwB1Otg/edit?usp=sharing) we will assign to make it profissional effective as we can and we will all participate in the presentation day
 
-## Problem Domain1
+## Schedule your practice session
 
-- Rubik's Cube is a challenging game that improves memory and logical thinking. It requires a series of movement sequences or algorithms to be solved.
-- The solver should match each side of the cube with squares of the same color.
-- A Rubik's Cube consists of 26 small cubes that rotate on a central axis and nine colored cube faces, arranged in three rows of three on each side.
-- When the cube is twisted out of its original arrangement, the player must return it to the original configuration, among 43 quintillion possible arrangements.
+The presentaion session will decide planed and we will take the conformation from the lead instructor a few days before the presentation day
 
-## Technologies Used1
+## Git Process
 
-- numpy
-- ursina: game engine
-- LITE SQL
-- OpenCV
-- Kociemba algorithm
+1- What components of your project will live on GitHub?
 
-## Features1
+everything required to modify and test the code, external resources and any important explanation to the project
 
-- Create an interactive interface.
-- Connect to a database to save the cube's state.
-- Utilize the camera to capture photos of the cube.
-- Use AI to build a model that can learn and teach how to solve the cube.
+2- How will you share the repository with your teammates?
 
-## How to Use the App
+everyone in the team will have full access to the Repository to modify the project
 
-1. Users can interact with a 3D model of the Rubik's Cube, manipulating it with basic movements such as Front, Back, Top, Bottom, Left, and Right.
-2. The app can take input from the camera, recognize each side of the cube, and extract the colors of the squares along with their positions.
-3. The app then provides the steps required to solve the cube.
+3- What is your Git flow?
+
+every member will work on individual branch and every day will push the work
+
+and there is one of us is responsible to merge all members work to the sub_main
+
+and test it before merge all day work to the main branch
+
+4- Will you be using a PR review workflow? If so, consider:
+
+a- How many people must review a PR?  
+
+two
+
+b- Who merges PRs?
+
+Ibrahim Aredah and Malik Abdela'al
+
+c- How often will you merge?
+
+if possible in daily basis
+
+d- How will you communicate that it’s time to merge?
+
+Slack ,Whatsapp , Discord
