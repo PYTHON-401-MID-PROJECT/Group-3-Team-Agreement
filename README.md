@@ -74,7 +74,7 @@ If it seems it will affecte the project procces or the time line
 
 1- What hours will you be available to communicate?
 
-every work day in the morning we will set a meeting and if any one has a problem can share it with the rest
+every work day in the morning we will set a meeting and if any one has a problem can share it with the rest (from 11 to 5)
 
 2- What platforms will you use to communicate (ie. Slack, phone …)?
 
