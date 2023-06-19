@@ -1,9 +1,8 @@
 # Group 3 : Team Agreement
-﻿# Project-Midterm-Prep-1
 
 ## Project Title
 
-JoEasyGov-GroupThree
+JoEasyGov
 
 ## Authers
 
